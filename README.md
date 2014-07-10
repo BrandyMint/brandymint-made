@@ -2,7 +2,7 @@
 
     > bower install git@github.com:BrandyMint/brandymint-made.git
 
-В рельсах со sprockets:
+В рельсах со sprockets `application.js`:
 
 
 ```
