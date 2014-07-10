@@ -1,6 +1,8 @@
-Подключение
+# Подключение
 
-В sprockets:
+    > bower install git@github.com:BrandyMint/brandymint-made.git
+
+В рельсах со sprockets:
 
 
 ```
