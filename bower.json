@@ -1,0 +1,19 @@
+{
+  "name": "brandymint-made",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BrandyMint/brandymint-made",
+  "authors": [
+    "Alexander Mescheryakov <sibsfinx@ya.ru>"
+  ],
+  "description": "brandymint label",
+  "main": "brandymint_made.js.coffee",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
